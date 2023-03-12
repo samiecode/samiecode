@@ -2,7 +2,7 @@
 - Web Developer and Java Developer
 - I'm looking to collaborate with other programmer working on project.
 
-## Hi there 👋
+## Hi there 👋 I'm @samieteq
 - 👋 I'm @SamieAzubike
 
 
