@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Samie Azubike
 - iCode || iDesign   
-- Web Developer and Java Developer
+- Software Engineer | Java Developer
 - I loves solving problems with codes, I use various web tools, languages, and technology to create applications with user experience as a top priority. I'm looking to collaborate with other programmer working on project.
 <!-- ### [live site](link) 
 ![image](link) -->
