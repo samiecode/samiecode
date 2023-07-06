@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Samie Azubike
 - iCode || iDesign   
-- Software Engineer | Java Developer
-- I loves solving problems with codes, I use various web tools, languages, and technology to create applications with user experience as a top priority. I'm looking to collaborate with other programmer working on project.
+- Software engineer with main specialty in Core Java, JavaScript, React, Spring Boot, Next.js, HTML/CSS
+- I'm focused on building creative web applications and efficient solutions to complex technical challenges. Also looking to collaborate with other programmer working on project.
+- Available to work on startup project and also with businesses.
 <!-- ### [live site](link) 
 ![image](link) -->
 <br>
