@@ -4,6 +4,7 @@
 - ✍ I'm more focused on building creative web applications and efficient solutions to complex technical challenges. Also 
 - 💞️ Looking to collaborate with other programmer working on project.
 - 🟢 Available to work on startup project and also with businesses.
+- 👀 I’m interested in systems programming, music(piano and bass guitar), reading.
 - 📫 How to reach me codewithsamie@gmail.com
 <!-- ### [live site](link) 
 ![image](link) -->
