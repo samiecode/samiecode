@@ -19,7 +19,7 @@
 <a href="https://github.com/samiecode/samiecode">
  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=samiecode&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
 </a><a href="https://github.com/samiecode/samiecode">
- <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiecode&title_color=ffffff&theme=dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
+ <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiecode&title_color=ffffff&theme=dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker,blade,scss" />
 </a>
 </p>
 
