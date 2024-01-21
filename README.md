@@ -7,6 +7,7 @@
 - 🟢 Available to work on startup project and also with businesses.
 - 👀 I’m interested in systems programming, music(piano and bass guitar), reading.
 - 📫 How to reach me <codewithsamie@gmail.com>
+- 📗 <a href="https://drive.google.com/file/d/1WxB_jdGeLqkyTyiJOE1Ody7CGp0942oJ/view?usp=sharing">My resume</a>
 <!-- ### [live site](link) 
 ![image](link) -->
 <br>
