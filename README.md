@@ -1,7 +1,7 @@
 <!-- ![](./twitter%20cover%204.jpg) -->
 ## Hi there 👋, I'm Samie Azubike  
 
-- 🌱 Java Backend and Full-stack Engineer with main specialty in Core Java, JavaScript, React, Spring Boot, Next.js, HTML/CSS
+- 🌱 Java Backend and Full-stack Engineer with main specialty in Core Java, Spring Boot, PHP, Laravel, JavaScript, React, Next.js, HTML/CSS
 - ✍ I'm more focused on building creative web applications and efficient solutions to complex technical challenges. Also
 - 💞️ Looking to collaborate with other programmer working on project.
 - 🟢 Available to work on startup project and also with businesses.
